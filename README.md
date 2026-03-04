@@ -41,3 +41,6 @@ most technical responsibilities for the project and serving as the head
 coordinator between the various members of our team of about 5 people. This
 project actually **won a local student project contest** after a teammate and I
 **presented it during a speech** to the faculty.
+
+**The prototype is hosted on <a href="https://english-project-ochre.vercel.app/"
+    target="_blank" rel="noopener noreferrer">Vercel</a>.**
