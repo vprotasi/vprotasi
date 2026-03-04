@@ -15,7 +15,7 @@ solving interesting problems and being part of a friendly and dynamic team.
 I graduated the University of Tyumen with a *magna cum laude* degree in maths
 and am open to opportunities worldwide. If something I've built catches your eye,
 feel free to reach out at
-<a href="mailto:vlad.protasov19@email.com">vlad.protasov19@email.com</a>.
+<a href="mailto:vlad.protasov19@email.com">vlad.protasov19@gmail.com</a>.
 
 ## What You Will Find on This Page
 
@@ -26,7 +26,7 @@ them detect keyword stuffing in their or their competitors' content. It can work
 on the entire HTML document, on the main content (`<main>` or `<article>` tags) or
 on just the text you've selected.
 
-**You can install it on the
+**You can install it from the
 <a href="https://chromewebstore.google.com/detail/check-keyword-density-too/fkidocfdbehjbpkodjigcalbccfjmnnc"
     rel="noopener noreferrer"
     target="_blank">store page</a>.**
