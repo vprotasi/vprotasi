@@ -10,7 +10,7 @@ help foreign students feel more at home at my alma mater.
 My projects have pulled me across TypeScript, Python, C, and JavaScript, and
 before university I picked up PHP for WordPress theming and plugin development.
 I don't have a strong preference for a specific stack or domain—I care more about
-solving inetersting problems and being part of a friendly and dynamic team.
+solving ineteresting problems and being part of a friendly and dynamic team.
 
 I graduated the University of Tyumen with a *magna cum laude* degree in maths
 and am open to opportunities worldwide. If something I've built catches your eye,
@@ -40,7 +40,7 @@ types of initial stimulus: pull, point strike, and hammer strike with a hammer
 whose head diameter is non-negligible.
 
 ### `blog-generator`
-**This is the most recent of my projects**. Here I'm working on a static site
+This is very much a work in progress. Here I'm working on a static site
 generator for a personal blog. I figured that it'd be more reliable (and fun!)
 to code one from scratch than using something like Jekyll or 11ty. I also
 considered using WordPress for this, as I have some experience writing themes
@@ -57,7 +57,7 @@ option proposed by the more tech-savvy team member. This led to me shedding
 most technical responsibilities for the project and serving as the head
 coordinator between the various members of our team of about 5 people. This
 project actually **won a local student project contest** after a teammate and I
-**presented it during a speech** to the faculty.
+presented it during a speech to the faculty.
 
 **The prototype is hosted on <a href="https://english-project-ochre.vercel.app/"
     target="_blank" rel="noopener noreferrer">Vercel</a>.**
