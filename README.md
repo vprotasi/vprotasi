@@ -6,8 +6,9 @@
 The repository for the Chrome extension I made during the months of January and
 February of 2026. It strives to serve SEO specialists and copywriters by helping
 them detect keyword stuffing in their or their competitors' content. It can work
-on the entire HTML document, on the main content (`main` or `article` tags) or
+on the entire HTML document, on the main content (`<main>` or `<article>` tags) or
 on just the text you've selected.
+
 You can install it on the [store page](https://chromewebstore.google.com/detail/check-keyword-density-too/fkidocfdbehjbpkodjigcalbccfjmnnc).
 
 ### `wave-pde-simulation`
