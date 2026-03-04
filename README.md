@@ -9,7 +9,10 @@ them detect keyword stuffing in their or their competitors' content. It can work
 on the entire HTML document, on the main content (`<main>` or `<article>` tags) or
 on just the text you've selected.
 
-You can install it on the [store page](https://chromewebstore.google.com/detail/check-keyword-density-too/fkidocfdbehjbpkodjigcalbccfjmnnc).
+You can install it on the
+<a href="https://chromewebstore.google.com/detail/check-keyword-density-too/fkidocfdbehjbpkodjigcalbccfjmnnc"
+    rel="noopener noreferrer"
+    target="_blank">store page</a>.
 
 ### `wave-pde-simulation`
 This is a project I completed during the autumn semester of 2023 at the University of
