@@ -1,5 +1,3 @@
-# Welcome to my homepage!
-
 ## Here you will find:
 
 ### `check-keyword-density-tool`
