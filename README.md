@@ -10,7 +10,7 @@ help foreign students feel more at home at my alma mater.
 My projects have pulled me across TypeScript, Python, C, and JavaScript, and
 before university I picked up PHP for WordPress theming and plugin development.
 I don't have a strong preference for a specific stack or domain—I care more about
-solving ineteresting problems and being part of a friendly and dynamic team.
+solving interesting problems and being part of a friendly and dynamic team.
 
 I graduated the University of Tyumen with a *magna cum laude* degree in maths
 and am open to opportunities worldwide. If something I've built catches your eye,
