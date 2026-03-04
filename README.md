@@ -1,7 +1,6 @@
 ## About Me
-Hey there! I'm Vlad
+Hey there! I'm Vlad👋
 
-I graduated with a pure maths degree *magna cum laude* from the University of Tyumen.
 Currently I spend my time building projects that help various professionals
 in a tangible way and/or incorporate mathematics in a beautiful way. These
 include a string vibration visualiser for the PDE class, a Chrome extension that
@@ -13,11 +12,12 @@ before university I picked up PHP for WordPress theming and plugin development.
 I don't have a strong preference for a specific stack or domain—I care more about
 solving inetersting problems and being part of a friendly and dynamic team.
 
-I'm open to opportunities worldwide and open to relocation. If something I've
-built catches your eye, feel free to reach out at
+I graduated the University of Tyumen with a *magna cum laude* degree in maths
+and am open to opportunities worldwide. If something I've built catches your eye,
+feel free to reach out at
 <a href="mailto:vlad.protasov19@email.com">vlad.protasov19@email.com</a>.
 
-## Here you will find:
+## What You Will Find on This Page
 
 ### `check-keyword-density-tool`
 The repository for the Chrome extension I made during the months of **January and
