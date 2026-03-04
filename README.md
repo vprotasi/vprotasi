@@ -1,3 +1,22 @@
+## About Me
+Hey there! I'm Vlad
+
+I graduated with a pure maths degree *magna cum laude* from the University of Tyumen.
+Currently I spend my time building projects that help various professionals
+in a tangible way and/or incorporate mathematics in a beautiful way. These
+include a string vibration visualiser for the PDE class, a Chrome extension that
+helps detect keyword stuffing, and an earlier MVP for a visual novel intended to
+help foreign students feel more at home at my alma mater.
+
+My projects have pulled me across TypeScript, Python, C, and JavaScript, and
+before university I picked up PHP for WordPress theming and plugin development.
+I don't have a strong preference for a specific stack or domain—I care more about
+solving inetersting problems and being part of a friendly and dynamic team.
+
+I'm open to opportunities worldwide and open to relocation. If something I've
+built catches your eye, feel free to reach out at
+<a href="mailto:vlad.protasov19@email.com">vlad.protasov19@email.com</a>.
+
 ## Here you will find:
 
 ### `check-keyword-density-tool`
@@ -25,14 +44,14 @@ whose head diameter is non-negligible.
 generator for a personal blog. I figured that it'd be more reliable (and fun!)
 to code one from scratch than using something like Jekyll or 11ty. I also
 considered using WordPress for this, as I have some experience writing themes
-and plugins, but ultimately decided to shed it as somewhat of an overkill.
+and plugins, but ultimately decided to rule it out as somewhat of an overkill.
 Static sites are faster and more secure as there is no WordPress admin endpoint
 for hackers to target.
 
 ### `english-project`
 Here's probably the most ambitious but also the earliest of the projects I've
 put on GitHub. I coded it in the **spring of 2022** and it was supposed to serve
-as the MVP for a visual novel. It was commisioned by my professor of
+as the MVP for a visual novel. It was commissioned by my professor of
 English at the time. It remained a prototype however, as my team opted for an
 option proposed by the more tech-savvy team member. This led to me shedding
 most technical responsibilities for the project and serving as the head
