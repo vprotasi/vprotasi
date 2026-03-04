@@ -1,9 +1,9 @@
 ## About Me
 Hey there! I'm Vlad👋
 
-Currently I spend my time building projects that help various professionals
-in a tangible way and/or incorporate mathematics in a beautiful way. These
-include a string vibration visualiser for the PDE class, a Chrome extension that
+Currently I'm building projects that tangibly help various professionals
+and/or incorporate mathematics in a beautiful way. These
+include a string vibration visualiser for a PDE class, a Chrome extension that
 helps detect keyword stuffing, and an earlier MVP for a visual novel intended to
 help foreign students feel more at home at my alma mater.
 
